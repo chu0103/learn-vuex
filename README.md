@@ -1,3 +1,6 @@
+# learn-vuex
+学习vuex的使用
+
 # vuex
 
 ## Project setup
