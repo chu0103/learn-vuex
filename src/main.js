@@ -3,8 +3,10 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
-Vue.config.productionTip = false
+// 它能根据的手机尺寸来调整rem的基准值
+import 'amfe-flexible'
 
+Vue.config.productionTip = false
 new Vue({
   router,
   store,
